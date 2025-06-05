@@ -91,6 +91,6 @@ I'm diving deep into **Artificial Intelligence and Machine Learning**, working o
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [yourusername](https://github.com/mrlonenerd)
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
