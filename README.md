@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Mahendran
 
 ## 🚀 Full-Stack Developer | Blockchain Enthusiast | AI/ML Explorer
 
